@@ -11,8 +11,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Jetpack Compose projects.
-- 🌱 I’m currently learning more about Jetpack Compose.
+- 🔭 I’m currently working on Flutter projects.
+- 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Kotlin, Android, Jetpack compose or any tech related stuff.
 - 📫 How to reach me: [Telegram - @abdullah200068](https://t.me/abdullah200068)
 

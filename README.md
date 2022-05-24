@@ -13,7 +13,6 @@
 
 - 🔭 I’m currently working on Flutter projects.
 - 🌱 I’m currently learning more about Flutter.
-- 💬 Ask me about Kotlin, Android, Jetpack compose or any tech related stuff.
 - 📫 How to reach me: [Telegram - @abdullah200068](https://t.me/abdullah200068)
 
 [![GitHub Abdalla](https://img.shields.io/github/followers/abdalla-hassanin?label=follow&style=social)](https://github.com/abdalla-hassanin)

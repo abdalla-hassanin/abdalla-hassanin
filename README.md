@@ -17,4 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla-hassanin&show_icons=true&locale=en&layout=compact" alt="abdalla-hassanin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla-hassanin&show_icons=true&locale=en" alt="abdalla-hassanin" /></p>

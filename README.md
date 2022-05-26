@@ -1,50 +1,20 @@
-### Hi there, I'm Abdalla Hassanin! 👋
+<h1 align="center">Hi 👋, I'm Abdalla Hassanin</h1>
+<h3 align="center">Mobile Apps Developer (Flutter)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla-hassanin&label=Views&color=blue&style=plastic" alt="abdalla-hassanin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla-hassanin&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla-hassanin" /> </p>
 
-<a href="https://github.com/abdalla-hassanin">
-  <img align="left" alt="Abdalla's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/abdullah200068">
-  <img align="left" alt="Abdalla's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<br/>
-<br/>
+- 💬 Ask me about **Flutter, Dart, Java, OOP**
 
-- 🔭 I’m currently working on Flutter projects.
-- 🌱 I’m currently learning more about Flutter.
-- 📫 How to reach me: [Telegram - @abdullah200068](https://t.me/abdullah200068)
+- 📫 How to reach me **abdullah657820@gmail.com**
 
-[![GitHub Abdalla](https://img.shields.io/github/followers/abdalla-hassanin?label=follow&style=social)](https://github.com/abdalla-hassanin)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdalla-hassanin-646933221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalla-hassanin-646933221" height="30" width="40" /></a>
+</p>
 
-**Languages and Tools:**  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla-hassanin&show_icons=true&locale=en&layout=compact" alt="abdalla-hassanin" /></p>
 
-<a href="https://github.com/abdalla-hassanin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla-hassanin&show_icons=true&theme=light&line_height=27" alt="Abdalla's github stats"/>
-</a>
-<a href="https://github.com/abdalla-hassanin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-hassanin&theme=light&hide_langs_below=1" />
-</a>
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla-hassanin&show_icons=true&locale=en" alt="abdalla-hassanin" /></p>

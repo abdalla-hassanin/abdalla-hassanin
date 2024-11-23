@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdalla Hassanin</h1>
-<h3 align="center">Mobile Apps Developer (Flutter)</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla-hassanin&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla-hassanin" /> </p>
 
-- 💬 Ask me about **Flutter, Dart, Java, OOP**
+- 💬 Ask me about **C#, .Net Core, Flutter, Dart, Java, OOP**
 
 - 📫 How to reach me **abdalla.hassanin.2000@gmail.com**
 
